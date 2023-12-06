@@ -1,4 +1,4 @@
-qqqqqqqqqqimport cv2
+import cv2
 import time
 import pygame
 import matplotlib.pyplot as plt
